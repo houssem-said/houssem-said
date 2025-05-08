@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **web application for automating the appointment booking and queue management for various departments of the SNDP-AGIL Tunisia**
 
-- 🌱 I’m currently learning **Frameworks, APIs**
+- 🌱 I’m currently learning **Frameworks, APIs, CORS**
 
 - 💬 Ask me about **Java, C# and C**
 
