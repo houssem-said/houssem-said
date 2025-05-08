@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=houssem-said" alt="houssem-said" /></a> </p>
 
-- 🔭 I’m currently working on **web application for automating the appointment booking and queue mana- gement for various departments of the SNDP**
+- 🔭 I’m currently working on **web application for automating the appointment booking and queue management for various departments of the SNDP-AGIL Tunisia**
 
 - 🌱 I’m currently learning **Frameworks, APIs**
 
